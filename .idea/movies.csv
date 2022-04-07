@@ -1,0 +1,1052 @@
+,movie,year,timeMin,imdb,metascore,votes,us_grossMillions
+0,The Batman,2022,176,8.4,72,285908,
+1,Spider-Man: No Way Home,2021,148,8.5,71,554720,
+2,Dune,2021,155,8.1,74,524060,
+3,The Dark Knight,2008,152,9.1,84,2529098,534.86
+4,CODA,2021,111,8.0,74,70242,
+5,Once Upon a Time... In Hollywood,2019,161,7.6,83,678520,142.5
+6,Drive My Car,2021,179,7.7,91,27720,
+7,Batman Begins,2005,140,8.3,70,1413384,206.85
+8,The Godfather,1972,175,9.2,100,1766139,134.97
+9,The Shawshank Redemption,1994,142,9.3,81,2565907,28.34
+10,The Worst Person in the World,2021,128,7.9,91,31019,
+11,The Dark Knight Rises,2012,164,8.4,78,1637702,448.14
+12,Joker,2019,122,8.4,59,1168215,335.45
+13,Avengers: Endgame,2019,181,8.4,78,1031015,858.37
+14,Dunkirk,2017,106,7.8,94,625314,188.37
+15,The Wolf of Wall Street,2013,180,8.2,75,1327681,116.9
+16,Kingsman: The Secret Service,2014,129,7.7,60,647752,128.26
+17,Zack Snyder's Justice League,2021,242,8.1,54,367627,
+18,Interstellar,2014,169,8.7,74,1709733,188.02
+19,American Psycho,2000,102,7.6,64,557151,15.07
+20,Harry Potter and the Sorcerer's Stone,2001,152,7.6,65,745615,317.58
+21,Prisoners,2013,153,8.1,70,671793,61.0
+22,Inception,2010,148,8.8,74,2251988,292.58
+23,Titanic,1997,194,7.9,75,1126410,659.33
+24,Pulp Fiction,1994,154,8.9,94,1969906,107.93
+25,Knives Out,2019,130,7.9,82,581648,165.36
+26,Schindler's List,1993,195,9.0,94,1307639,96.9
+27,The Green Mile,1999,189,8.6,61,1247567,136.8
+28,Avengers: Infinity War,2018,149,8.5,68,996505,678.82
+29,Mad Max: Fury Road,2015,120,8.1,90,961243,154.06
+30,Se7en,1995,127,8.6,65,1573250,100.13
+31,Pride & Prejudice,2005,129,7.8,82,285117,38.41
+32,Deadpool,2016,108,8.0,65,987722,363.07
+33,Fight Club,1999,139,8.8,66,2018973,37.03
+34,Inglourious Basterds,2009,153,8.3,69,1383202,120.54
+35,Forrest Gump,1994,142,8.8,82,1979159,330.25
+36,The Silence of the Lambs,1991,118,8.6,85,1375935,130.74
+37,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.9,92,1787358,315.54
+38,Parasite,2019,132,8.5,96,729364,53.37
+39,There Will Be Blood,2007,158,8.2,93,565299,40.22
+40,Good Will Hunting,1997,126,8.3,70,930832,138.43
+41,Ford v Ferrari,2019,152,8.1,81,360589,117.62
+42,The Gentlemen,2019,113,7.8,51,308037,
+43,Whiplash,2014,106,8.5,88,799751,13.09
+44,Guardians of the Galaxy,2014,121,8.1,76,1131389,333.18
+45,Little Women,2019,135,7.8,91,187477,108.1
+46,Hacksaw Ridge,2016,139,8.1,71,496024,67.21
+47,Django Unchained,2012,165,8.5,81,1482600,162.81
+48,Spider-Man: Into the Spider-Verse,2018,117,8.4,87,479879,190.24
+49,Avatar,2009,162,7.9,83,1185368,760.51
+                                                movie        year  timeMin  imdb    metascore      votes us_grossMillions
+0                                                CODA      (2021)  111 min   8.1   74             88,465                -
+1                                          The Batman      (2022)  176 min   8.3   72            311,925             #131
+2                                                 RRR      (2022)  187 min   9.0   86             45,856                -
+3                                                Dune      (2021)  155 min   8.1   74            535,912             #246
+4                             Spider-Man: No Way Home      (2021)  148 min   8.5   71            573,819              #79
+5                                        Drive My Car      (2021)  179 min   7.6   91             32,376                -
+6                                       The Godfather      (1972)  175 min   9.2  100          1,769,700         $134.97M
+7                       The Worst Person in the World      (2021)  128 min   7.9   90             34,773                -
+8                                   Blade Runner 2049      (2017)  164 min   8.0   81            534,198          $92.05M
+9                                     The Dark Knight      (2008)  152 min   9.1   84          2,535,797         $534.86M
+10                   Once Upon a Time... In Hollywood      (2019)  161 min   7.6   83            680,776         $142.50M
+11                       Zack Snyder's Justice League      (2021)  242 min   8.1   54            370,464                -
+12                           The Shawshank Redemption      (1994)  142 min   9.3   81          2,570,150          $28.34M
+13                                  Avengers: Endgame      (2019)  181 min   8.4   78          1,035,293         $858.37M
+14                                       Pulp Fiction      (1994)  154 min   8.9   94          1,972,946         $107.93M
+15                                       Interstellar      (2014)  169 min   8.7   74          1,714,243         $188.02M
+16                              The Dark Knight Rises      (2012)  164 min   8.4   78          1,641,493         $448.14M
+17                                              Joker  (I) (2019)  122 min   8.4   59          1,173,425         $335.45M
+18                                      Batman Begins      (2005)  140 min   8.3   70          1,417,005         $206.85M
+19              Harry Potter and the Sorcerer's Stone      (2001)  152 min   7.6   65            746,943         $317.58M
+20                             The Godfather: Part II      (1974)  202 min   9.0   90          1,224,086          $57.30M
+21                                           Parasite      (2019)  132 min   8.5   96            732,304          $53.37M
+22                                    American Psycho      (2000)  102 min   7.6   64            559,213          $15.07M
+23                                       Blade Runner      (1982)  117 min   8.1   84            745,143          $32.87M
+24                            The Wolf of Wall Street      (2013)  180 min   8.2   75          1,330,525         $116.90M
+25                                         Braveheart      (1995)  178 min   8.4   68          1,012,946          $75.60M
+26                                         Knives Out      (2019)  130 min   7.9   82            583,226         $165.36M
+27                                          Inception      (2010)  148 min   8.8   74          2,255,779         $292.58M
+28                                               Heat      (1995)  170 min   8.3   76            630,320          $67.44M
+29                      The Mitchells vs the Machines      (2021)  113 min   7.7   81             97,948                -
+30                                          Prisoners      (2013)  153 min   8.1   70            673,576          $61.00M
+31                                            Titanic      (1997)  194 min   7.9   75          1,127,752         $659.33M
+32                                         Fight Club      (1999)  139 min   8.8   66          2,022,476          $37.03M
+33                       Kingsman: The Secret Service      (2014)  129 min   7.7   60            648,926         $128.26M
+34                                            Dunkirk      (2017)  106 min   7.8   94            627,076         $188.37M
+35                                Requiem for a Dream      (2000)  102 min   8.3   68            817,039           $3.64M
+36                                 Mad Max: Fury Road      (2015)  120 min   8.1   90            962,917         $154.06M
+37                                        Jojo Rabbit      (2019)  108 min   7.9   58            363,957           $0.35M
+38                             Avengers: Infinity War      (2018)  149 min   8.5   68          1,000,163         $678.82M
+39                               Inglourious Basterds      (2009)  153 min   8.3   69          1,385,604         $120.54M
+40                                   Django Unchained      (2012)  165 min   8.5   81          1,485,391         $162.81M
+41                                         Goodfellas      (1990)  145 min   8.7   90          1,109,055          $46.84M
+42                              To Kill a Mockingbird      (1962)  129 min   8.3   88            310,616             #108
+43  The Lord of the Rings: The Fellowship of the Ring      (2001)  178 min   8.9   92          1,789,838         $315.54M
+44                                      The Gentlemen      (2019)  113 min   7.8   51            308,990                -
+45                                           Deadpool      (2016)  108 min   8.0   65            989,697         $363.07M
+46                                     The Green Mile      (1999)  189 min   8.6   61          1,249,741         $136.80M
+47                                     Ford v Ferrari      (2019)  152 min   8.1   81            361,853         $117.62M
+48                                              Se7en      (1995)  127 min   8.6   65          1,576,153         $100.13M
+49                                         Green Book      (2018)  130 min   8.2   69            458,876          $85.08M                                                     movie        year  timeMin  imdb   metascore      votes us_grossMillions
+0                                                 Whiplash      (2014)  106 min   8.5  88            801,627          $13.09M
+1                                     Call Me by Your Name      (2017)  132 min   7.9  93            254,731          $18.10M
+2                                             Little Women      (2019)  135 min   7.8  91            188,404         $108.10M
+3                                             Forrest Gump      (1994)  142 min   8.8  82          1,982,588         $330.25M
+4                                                Gladiator      (2000)  155 min   8.5  67          1,446,191         $187.71M
+5                                         Schindler's List      (1993)  195 min   9.0  94          1,309,457          $96.90M
+6                                      There Will Be Blood      (2007)  158 min   8.2  93            566,399          $40.22M
+7                                 The Silence of the Lambs      (1991)  118 min   8.6  85          1,377,976         $130.74M
+8                                                 The Help      (2011)  146 min   8.1  62            447,666         $169.71M
+9                                  Guardians of the Galaxy      (2014)  121 min   8.1  76          1,133,058         $333.18M
+10                                           Jurassic Park      (1993)  127 min   8.2  68            940,326         $402.45M
+11                                    Little Miss Sunshine      (2006)  101 min   7.8  80            467,466          $59.89M
+12                                               Gone Girl      (2014)  149 min   8.1  79            945,356         $167.77M
+13                       Spider-Man: Into the Spider-Verse      (2018)  117 min   8.4  87            481,871         $190.24M
+14  Pirates of the Caribbean: The Curse of the Black Pearl      (2003)  143 min   8.1  63          1,071,692         $305.41M
+15                                       Bohemian Rhapsody      (2018)  134 min   8.0  49            512,719         $216.43M
+16                                                  Avatar      (2009)  162 min   7.9  83          1,186,763         $760.51M
+17                                  No Country for Old Men      (2007)  122 min   8.2  92            935,922          $74.28M
+18                                              The Matrix      (1999)  136 min   8.7  73          1,849,718         $171.48M
+19                                                Watchmen      (2009)  162 min   7.7  56            538,998         $107.51M
+20                                              Ex Machina      (2014)  108 min   7.7  78            522,293          $25.44M
+21                                       The Fifth Element      (1997)  126 min   7.7  52            461,403          $63.54M
+22                                               Star Wars      (1977)  121 min   8.6  90          1,314,964         $322.74M
+23                                       Pride & Prejudice      (2005)  129 min   7.8  82            285,745          $38.41M
+24                                      Gone with the Wind      (1939)  238 min   8.2  97            308,871         $198.68M
+25                                                Die Hard      (1988)  132 min   8.3  72            853,792          $83.01M
+26                                              Deadpool 2      (2018)  119 min   7.7  66            548,529         $324.59M
+27                                            The Prestige      (2006)  130 min   8.5  66          1,287,219          $53.09M
+28                                                    1917      (2019)  119 min   8.3  78            542,461         $159.23M
+29                                     Saving Private Ryan      (1998)  169 min   8.6  91          1,338,895         $216.54M
+30                                                 Get Out  (I) (2017)  104 min   7.7  85            556,275         $176.04M
+31                                          Apocalypse Now      (1979)  147 min   8.5  94            647,776          $83.47M
+32                                       Good Will Hunting      (1997)  126 min   8.3  70            932,307         $138.43M
+33                                         American Beauty      (1999)  122 min   8.4  84          1,128,027         $130.10M
+34                   Eternal Sunshine of the Spotless Mind      (2004)  108 min   8.3  89            975,974          $34.40M
+35                                             Taxi Driver      (1976)  114 min   8.3  94            790,869          $28.26M
+36                                           Boogie Nights      (1997)  155 min   7.9  85            258,278          $26.40M
+37                                            The Departed      (2006)  151 min   8.5  85          1,279,337         $132.38M
+38                                                 Sicario      (2015)  121 min   7.7  82            413,867          $46.89M
+39                                           Hacksaw Ridge      (2016)  139 min   8.1  71            497,381          $67.21M
+40                                  Léon: The Professional      (1994)  110 min   8.6  64          1,120,435          $19.50M
+41                                              The Father  (I) (2020)   97 min   8.3  88            131,001             #130
+42                                               Tombstone      (1993)  130 min   7.8  50            142,951          $56.51M
+43                                              La La Land      (2016)  128 min   8.0  94            561,538         $151.10M
+44                                      Back to the Future      (1985)  116 min   8.6  87          1,153,690         $210.61M
+45                                                Hamilton      (2020)  160 min   8.4  90             85,318             #112
+46           The Lord of the Rings: The Return of the King      (2003)  201 min   9.0  94          1,768,153         $377.85M
+47                                            The Irishman      (2019)  209 min   7.8  94            368,971           $7.00M
+48                                 The Godfather: Part III      (1990)  162 min   7.6  60            385,568          $66.67M
+49                                            Ghostbusters      (1984)  105 min   7.8  71            402,772         $238.63M                                           movie        year  timeMin  imdb   metascore      votes us_grossMillions
+0                                            Her      (2013)  126 min   8.0  91            588,412          $25.57M
+1                                 Shutter Island      (2010)  138 min   8.2  63          1,249,388         $128.01M
+2                                          Moana  (I) (2016)  107 min   7.6  81            317,559         $248.76M
+3                                          Alien      (1979)  117 min   8.5  89            849,080          $78.90M
+4                                    Man on Fire      (2004)  146 min   7.7  47            354,962          $77.91M
+5                             The Imitation Game      (2014)  114 min   8.0  71            743,894          $91.13M
+6                                 Thor: Ragnarok      (2017)  130 min   7.9  74            689,746         $315.06M
+7                                 The Blind Side      (2009)  129 min   7.6  53            321,281         $255.96M
+8                                The Sixth Sense      (1999)  107 min   8.2  64            964,777         $293.51M
+9                       The Pursuit of Happyness      (2006)  117 min   8.0  64            492,785         $163.57M
+10                                           300      (2006)  117 min   7.6  52            799,241         $210.61M
+11                                  12 Angry Men      (1957)   96 min   9.0  96            759,062           $4.36M
+12                                   Baby Driver      (2017)  113 min   7.6  86            507,339         $107.83M
+13                                   The Shining      (1980)  146 min   8.4  66            979,193          $44.02M
+14                                 The Big Short      (2015)  130 min   7.8  81            412,924          $70.26M
+15                                      Iron Man      (2008)  126 min   7.9  79          1,020,764         $318.41M
+16                            The Princess Bride      (1987)   98 min   8.0  77            419,475          $30.86M
+17           Harry Potter and the Goblet of Fire      (2005)  157 min   7.7  81            603,534         $290.01M
+18                                   The Goonies      (1985)  114 min   7.7  62            263,621          $61.50M
+19                 Mission: Impossible - Fallout      (2018)  147 min   7.7  86            319,247         $220.16M
+20  Harry Potter and the Deathly Hallows: Part 2      (2011)  130 min   8.2  85            839,917         $381.01M
+21                                   The Martian      (2015)  144 min   8.0  80            823,469         $228.43M
+22                      The Grand Budapest Hotel      (2014)   99 min   8.1  88            776,240          $59.10M
+23                            A Clockwork Orange      (1971)  136 min   8.3  77            806,285           $6.21M
+24                              12 Years a Slave      (2013)  134 min   8.1  96            682,853          $56.67M
+25                                  Training Day      (2001)  122 min   7.7  69            422,121          $76.63M
+26                            The Usual Suspects      (1995)  106 min   8.5  77          1,056,444          $23.34M
+27                                      Zootopia      (2016)  108 min   8.0  78            478,385         $341.27M
+28                                   Ratatouille      (2007)  111 min   8.1  96            696,531         $206.45M
+29                                   Stand by Me      (1986)   89 min   8.1  75            391,188          $52.29M
+30                                      Scarface      (1983)  170 min   8.3  65            806,203          $45.60M
+31             The Hobbit: An Unexpected Journey      (2012)  169 min   7.8  58            800,851         $303.00M
+32                                 The Lion King      (1994)   88 min   8.5  88          1,018,123         $422.78M
+33                            The Social Network      (2010)  120 min   7.8  95            679,484          $96.96M
+34                                         Drive  (I) (2011)  100 min   7.8  78            614,283          $35.06M
+35                                  The Avengers      (2012)  143 min   8.1  69          1,347,665         $623.28M
+36                                         Shrek      (2001)   90 min   7.9  84            656,406         $267.67M
+37                                 Spirited Away      (2001)  125 min   8.6  96            726,391          $10.06M
+38                             L.A. Confidential      (1997)  138 min   8.3  90            568,843          $64.62M
+39                            Dallas Buyers Club      (2013)  117 min   8.0  79            475,301          $27.30M
+40                                       Memento      (2000)  113 min   8.5  80          1,202,031          $25.54M
+41                                          Argo      (2012)  120 min   7.7  86            603,274         $136.03M
+42                               The Truman Show      (1998)  103 min   8.2  90          1,028,572         $125.62M
+43                                The Handmaiden      (2016)  145 min   8.1  84            136,929           $2.01M
+44                                  The Hangover      (2009)  100 min   7.7  73            764,051         $277.32M
+45                                        Zodiac      (2007)  157 min   7.7  78            520,377          $33.08M
+46               One Flew Over the Cuckoo's Nest      (1975)  133 min   8.7  84            978,927         $112.00M
+47                                     Atonement      (2007)  123 min   7.8  85            271,159          $50.93M
+48                                          Jaws      (1975)  124 min   8.1  87            579,289         $260.00M
+49                                    Wind River      (2017)  107 min   7.7  73            241,162          $33.80M                                            movie         year  timeMin  imdb    metascore      votes us_grossMillions
+0                                         Arrival  (II) (2016)  116 min   7.9   81            665,359         $100.55M
+1                                          Aliens       (1986)  137 min   8.4   84            696,502          $85.16M
+2                               Full Metal Jacket       (1987)  116 min   8.3   76            720,524          $46.36M
+3                              Lawrence of Arabia       (1962)  218 min   8.3  100            286,777          $44.82M
+4       Three Billboards Outside Ebbing, Missouri       (2017)  115 min   8.1   88            486,782          $54.51M
+5                                           Crash   (I) (2004)  112 min   7.8   66            432,436          $54.58M
+6                               The Hateful Eight       (2015)  168 min   7.8   68            574,684          $54.12M
+7                                The Last Emperor       (1987)  163 min   7.7   76            101,243          $43.98M
+8                     Once Upon a Time in America       (1984)  229 min   8.4   75            340,966           $5.32M
+9                       What We Do in the Shadows       (2014)   86 min   7.7   76            176,457           $3.33M
+10     Star Wars: Episode VII - The Force Awakens       (2015)  138 min   7.9   80            905,458         $936.66M
+11                                           Coco   (I) (2017)  105 min   8.4   81            471,276         $209.73M
+12                                   Office Space       (1999)   89 min   7.7   68            259,210          $10.82M
+13                                         Oldboy       (2003)  120 min   8.4   77            558,851           $0.71M
+14                                     Black Swan       (2010)  108 min   8.0   79            742,882         $106.95M
+15                The Girl with the Dragon Tattoo       (2011)  158 min   7.8   71            453,550         $102.52M
+16                        Silver Linings Playbook       (2012)  122 min   7.7   81            696,287         $132.09M
+17                                   Donnie Darko       (2001)  113 min   8.0   88            780,576           $1.48M
+18       Harry Potter and the Prisoner of Azkaban       (2004)  142 min   7.9   82            610,069         $249.36M
+19                                         Snatch       (2000)  102 min   8.3   55            833,080          $30.33M
+20                                       Jai Bhim       (2021)  164 min   9.4            0    184,626                -
+21                                   Nightcrawler       (2014)  117 min   7.9   76            518,872          $32.38M
+22     Star Wars: Episode VI - Return of the Jedi       (1983)  131 min   8.3   58          1,016,157         $309.13M
+23                                 Reservoir Dogs       (1992)   99 min   8.3   79            985,906           $2.83M
+24                                    The Pianist       (2002)  150 min   8.6   85            800,628          $32.57M
+25                                  Casino Royale       (2006)  144 min   8.0   80            641,517         $167.45M
+26                               The Big Lebowski       (1998)  117 min   8.1   71            787,043          $17.50M
+27                              Kill Bill: Vol. 1       (2003)  111 min   8.2   69          1,078,486          $70.10M
+28                                     Casablanca       (1942)  102 min   8.5  100            557,195           $1.02M
+29                             Brokeback Mountain       (2005)  134 min   7.7   87            348,541          $83.04M
+30                   Rogue One: A Star Wars Story       (2016)  133 min   7.8   65            601,830         $532.18M
+31                                   True Romance       (1993)  119 min   7.9   59            222,250          $12.28M
+32                 The Good, the Bad and the Ugly       (1966)  178 min   8.8   90            739,100           $6.10M
+33                     Blue Is the Warmest Colour       (2013)  180 min   7.7   89            148,687           $2.20M
+34                                          Fargo       (1996)   98 min   8.1   85            661,162          $24.61M
+35                             Dead Poets Society       (1989)  128 min   8.1   79            468,575          $95.86M
+36                          2001: A Space Odyssey       (1968)  149 min   8.3   84            648,452          $56.95M
+37                                           Soul       (2020)  100 min   8.1   83            305,397                -
+38                                       Sin City       (2005)  124 min   8.0   74            758,616          $74.10M
+39                                   The Notebook       (2004)  123 min   7.8   53            555,844          $81.00M
+40                                   The Revenant       (2015)  156 min   8.0   76            773,406         $183.64M
+41                          Manchester by the Sea       (2016)  137 min   7.8   96            271,990          $47.70M
+42                The Perks of Being a Wallflower       (2012)  103 min   8.0   67            495,731          $17.74M
+43                            Catch Me If You Can       (2002)  141 min   8.1   75            931,717         $164.62M
+44  Indiana Jones and the Raiders of the Lost Ark       (1981)  115 min   8.4   85            939,712         $248.16M
+45                                      Spotlight   (I) (2015)  129 min   8.1   93            457,061          $45.06M
+46                     Captain America: Civil War       (2016)  147 min   7.8   75            747,324         $408.08M
+47                                 V for Vendetta       (2005)  132 min   8.2   62          1,094,677          $70.51M
+48                                          Logan       (2017)  137 min   8.1   77            722,609         $226.28M
+49                                   Finding Nemo       (2003)  100 min   8.2   90          1,012,229         $380.84M                                              movie         year  timeMin  imdb   metascore      votes us_grossMillions
+0                                          Superbad       (2007)  113 min   7.6  76            559,880         $121.46M
+1                                            Casino       (1995)  178 min   8.2  73            503,395          $42.44M
+2             The Lord of the Rings: The Two Towers       (2002)  179 min   8.8  87          1,597,372         $342.55M
+3                                     Another Round       (2020)  117 min   7.7  79            139,644                -
+4                                          Hot Fuzz       (2007)  121 min   7.8  81            493,822          $23.64M
+5                                    Hidden Figures       (2016)  127 min   7.8  74            221,112         $169.61M
+6                                Dances with Wolves       (1990)  181 min   8.1  72            258,067         $184.21M
+7                          Ferris Bueller's Day Off       (1986)  103 min   7.8  61            346,399          $70.14M
+8                                        Inside Out   (I) (2015)   95 min   8.2  94            682,828         $356.46M
+9                    Guardians of the Galaxy Vol. 2       (2017)  136 min   7.6  67            644,186         $389.81M
+10                               Hell or High Water  (II) (2016)  102 min   7.6  88            223,806          $26.86M
+11                                 Moonrise Kingdom       (2012)   94 min   7.8  84            342,498          $45.51M
+12                                       About Time   (I) (2013)  123 min   7.8  55            335,020          $15.32M
+13                               The Breakfast Club       (1985)   97 min   7.8  66            383,747          $45.88M
+14                                      City of God       (2002)  130 min   8.6  79            738,389           $7.56M
+15                                 The Intouchables       (2011)  112 min   8.5  57            826,801          $13.18M
+16                                   The Terminator       (1984)  107 min   8.1  84            837,838          $38.40M
+17                      Baahubali 2: The Conclusion       (2017)  167 min   8.3           0     88,234          $20.19M
+18                                    Trainspotting       (1996)   93 min   8.2  83            671,215          $16.50M
+19                                 Mulholland Drive       (2001)  147 min   7.9  85            346,549           $7.22M
+20                                    All About Eve       (1950)  138 min   8.3  98            129,056           $0.01M
+21                                   A Star Is Born       (2018)  136 min   7.6  88            371,005         $215.29M
+22                       Terminator 2: Judgment Day       (1991)  137 min   8.6  75          1,063,128         $204.84M
+23  Birdman or (The Unexpected Virtue of Ignorance)       (2014)  119 min   7.7  87            615,554          $42.34M
+24   Star Wars: Episode V - The Empire Strikes Back       (1980)  124 min   8.7  82          1,243,477         $290.48M
+25                                       Unforgiven       (1992)  130 min   8.2  85            402,294         $101.16M
+26                                         The Hunt       (2012)  115 min   8.3  77            317,307           $0.69M
+27                               American History X       (1998)  119 min   8.5  62          1,092,161           $6.72M
+28                                        Moneyball       (2011)  133 min   7.6  87            408,286          $75.61M
+29                                     The Exorcist       (1973)  122 min   8.1  81            389,314         $232.91M
+30                                          Warrior       (2011)  140 min   8.2  71            461,447          $13.66M
+31                                          Gattaca       (1997)  106 min   7.8  64            297,011          $12.34M
+32                                         Kick-Ass       (2010)  117 min   7.6  66            551,182          $48.07M
+33           Harry Potter and the Half-Blood Prince       (2009)  153 min   7.6  78            524,166         $301.96M
+34                                Midnight in Paris       (2011)   94 min   7.7  81            414,358          $56.82M
+35     Harry Potter and the Deathly Hallows: Part 1       (2010)  146 min   7.7  65            527,353         $295.98M
+36                                         Stardust       (2007)  127 min   7.6  66            268,519          $38.63M
+37                             Howl's Moving Castle       (2004)  119 min   8.2  80            375,975           $4.71M
+38                                      Blue Velvet       (1986)  120 min   7.7  76            194,137           $8.55M
+39                                  The Incredibles       (2004)  115 min   8.1  90            704,220         $261.44M
+40                                        Toy Story       (1995)   81 min   8.3  95            958,062         $191.80M
+41                                     Falling Down       (1993)  113 min   7.6  56            185,394          $40.90M
+42                                           Psycho       (1960)  109 min   8.5  97            650,114          $32.00M
+43                                        Star Trek       (2009)  127 min   8.0  82            596,835         $257.73M
+44                               X-Men: First Class       (2011)  131 min   7.7  65            677,503         $146.41M
+45                                          RoboCop       (1987)  102 min   7.6  67            251,322          $53.42M
+46                                          Skyfall       (2012)  143 min   7.8  81            682,400         $304.36M
+47                                    Into the Wild       (2007)  148 min   8.1  73            609,769          $18.35M
+48                                Life Is Beautiful       (1997)  116 min   8.6  59            673,182          $57.60M
+49                                    Almost Famous       (2000)  122 min   7.9  90            271,199          $32.53M                                           movie        year  timeMin  imdb   metascore      votes us_grossMillions
+0                               A Beautiful Mind      (2001)  135 min   8.2  72            905,800         $170.74M
+1                                Black Hawk Down      (2001)  144 min   7.7  74            387,453         $108.64M
+2   Star Wars: Episode III - Revenge of the Sith      (2005)  140 min   7.6  68            759,679         $380.26M
+3                                     12 Monkeys      (1995)  129 min   8.0  74            606,650          $57.14M
+4                                  Love Actually      (2003)  135 min   7.6  55            473,229          $59.70M
+5                                Pan's Labyrinth      (2006)  118 min   8.2  98            653,665          $37.63M
+6                               The Wizard of Oz      (1939)  102 min   8.1  92            387,781           $2.08M
+7                                     Inside Man      (2006)  129 min   7.6  76            364,539          $88.51M
+8                                           Rush  (I) (2013)  123 min   8.1  74            466,165          $26.95M
+9                                          Taken  (I) (2008)   90 min   7.8  51            591,596         $145.00M
+10                                       Amadeus      (1984)  160 min   8.4  88            391,919          $51.97M
+11                                Sound of Metal      (2019)  120 min   7.7  82            117,624                -
+12                                A Few Good Men      (1992)  138 min   7.7  62            254,940         $141.34M
+13                               The Deer Hunter      (1978)  183 min   8.1  86            332,354          $48.98M
+14                                  Come and See      (1985)  142 min   8.4           0     73,879             #104
+15                  The Bridge on the River Kwai      (1957)  161 min   8.2  87            216,243          $44.91M
+16                           Singin' in the Rain      (1952)  103 min   8.3  99            235,715           $8.82M
+17                                       Cabaret      (1972)  124 min   7.8  80             53,702          $42.77M
+18                              The Last Samurai      (2003)  154 min   7.8  55            427,365         $111.11M
+19                                  Mystic River      (2003)  138 min   7.9  84            447,372          $90.14M
+20                                      The Game      (1997)  129 min   7.8  61            381,687          $48.32M
+21                                    Apocalypto      (2006)  139 min   7.8  68            306,517          $50.87M
+22                            The Sound of Music      (1965)  172 min   8.1  63            224,523         $163.21M
+23                                  Mary Poppins      (1964)  139 min   7.8  88            168,495         $102.27M
+24                    E.T. the Extra-Terrestrial      (1982)  115 min   7.9  91            397,057         $435.11M
+25                                    The Artist  (I) (2011)  100 min   7.9  89            239,157          $44.67M
+26                                 Despicable Me      (2010)   95 min   7.6  72            530,839         $251.51M
+27           The Curious Case of Benjamin Button      (2008)  166 min   7.8  70            632,177         $127.51M
+28                                          Room  (I) (2015)  118 min   8.1  86            406,537          $14.68M
+29                                     The Thing      (1982)  109 min   8.2  57            407,219          $13.78M
+30           The Hobbit: The Desolation of Smaug      (2013)  161 min   7.8  66            640,184         $258.37M
+31                                            Up      (2009)   96 min   8.3  88          1,008,549         $293.00M
+32                                    Home Alone      (1990)  103 min   7.7  63            550,497         $285.76M
+33                              Edge of Tomorrow      (2014)  113 min   7.9  71            652,568         $100.21M
+34                                Ocean's Eleven      (2001)  116 min   7.7  74            555,446         $183.42M
+35                                         Rocky      (1976)  120 min   8.1  70            557,093         $117.24M
+36                    X-Men: Days of Future Past      (2014)  132 min   8.0  75            695,068         $233.92M
+37                                    Your Name.      (2016)  106 min   8.4  79            246,428           $5.02M
+38                             Shaun of the Dead      (2004)   99 min   7.9  76            543,982          $13.54M
+39                                     Incendies      (2010)  131 min   8.3  80            170,785           $6.86M
+40                                 All That Jazz      (1979)  123 min   7.8  72             31,122          $37.82M
+41                                   Dark Waters      (2019)  126 min   7.6  73             82,995                -
+42                                Monsters, Inc.      (2001)   92 min   8.1  79            878,400         $289.92M
+43                               My Cousin Vinny      (1992)  120 min   7.6  68            120,808          $52.93M
+44                               Midnight Cowboy      (1969)  113 min   7.8  79            109,145          $44.79M
+45                                      Predator      (1987)  107 min   7.8  45            398,113          $59.74M
+46                                     Airplane!      (1980)   88 min   7.7  78            232,069          $83.40M
+47                                       Platoon      (1986)  120 min   8.1  92            404,918         $138.53M
+48                          The Butterfly Effect      (2004)  113 min   7.6  30            478,538          $57.94M
+49                               Children of Men      (2006)  109 min   7.9  84            490,423          $35.55M                                                                   movie        year  timeMin  imdb   metascore      votes us_grossMillions
+0                                                       K.G.F: Chapter 1      (2018)  156 min   8.5           0     60,130                -
+1                                                                 Amélie      (2001)  122 min   8.3  69            740,578          $33.23M
+2                                                               3 Idiots      (2009)  170 min   8.5  67            383,189           $6.53M
+3                                    Captain America: The Winter Soldier      (2014)  136 min   7.8  70            810,776         $259.77M
+4                                                         The Lego Movie      (2014)  100 min   7.7  83            344,304         $257.76M
+5                                              The Count of Monte Cristo      (2002)  131 min   7.7  61            135,985          $54.23M
+6                                    Willy Wonka & the Chocolate Factory      (1971)  100 min   7.8  67            195,445           $4.00M
+7   Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb      (1964)   95 min   8.4  97            478,207           $0.28M
+8                                                          Blood Diamond      (2006)  143 min   8.0  64            534,722          $57.37M
+9                                               Baahubali: The Beginning      (2015)  159 min   8.1           0    114,518           $6.74M
+10                                                   Slumdog Millionaire      (2008)  120 min   8.0  84            831,244         $141.32M
+11                                                              Magnolia      (1999)  188 min   8.0  77            306,846          $22.46M
+12                                                     Empire of the Sun      (1987)  153 min   7.7  62            123,452          $22.24M
+13                                                                   Saw      (2004)  103 min   7.6  46            408,654          $56.00M
+14                                                            The Reader      (2008)  124 min   7.6  58            240,739          $34.19M
+15                                                               Tangled      (2010)  100 min   7.8  71            437,878         $200.82M
+16                                                  The Ten Commandments      (1956)  220 min   7.9           0     68,739          $93.74M
+17                                              How to Train Your Dragon      (2010)   98 min   8.1  75            715,633         $217.58M
+18                                                    Memories of Murder      (2003)  132 min   8.1  82            170,518           $0.01M
+19                                                                WALL·E      (2008)   98 min   8.4  95          1,077,892         $223.81M
+20                                                             Halloween      (1978)   91 min   7.7  87            264,615          $47.00M
+21                                                             Chinatown      (1974)  130 min   8.2  92            318,193           $8.49M
+22                                                   The Lives of Others      (2006)  137 min   8.4  89            381,776          $11.29M
+23                                                       Sherlock Holmes      (2009)  128 min   7.6  57            617,670         $209.03M
+24                                                        Marriage Story      (2019)  137 min   7.9  94            291,719           $2.00M
+25                                                       Blazing Saddles      (1974)   93 min   7.7  73            135,828         $119.50M
+26                                                             True Grit      (2010)  110 min   7.6  80            332,466         $171.24M
+27                                            O Brother, Where Art Thou?      (2000)  107 min   7.7  69            304,994          $45.51M
+28                                                              Big Fish      (2003)  125 min   8.0  58            434,537          $66.26M
+29                                                           The Sandlot      (1993)  101 min   7.8  55             88,358          $32.42M
+30                                                   Remember the Titans      (2000)  113 min   7.8  48            210,636         $115.65M
+31                                                         Kung Fu Panda      (2008)   92 min   7.6  74            453,150         $215.43M
+32                                                           Toy Story 4      (2019)  100 min   7.7  84            236,043         $434.04M
+33                                              The Last of the Mohicans      (1992)  112 min   7.7  76            164,968          $75.51M
+34                                                   Million Dollar Baby      (2004)  132 min   8.1  86            672,743         $100.49M
+35                                                               Gravity      (2013)   91 min   7.7  96            809,118         $274.09M
+36                                                   The Bourne Identity      (2002)  119 min   7.9  68            536,419         $121.66M
+37                                                     Captain Fantastic      (2016)  118 min   7.8  72            212,711           $5.88M
+38                                                              Downfall      (2004)  156 min   8.2  82            348,989           $5.51M
+39                                                         Incredibles 2      (2018)  118 min   7.6  80            282,848         $608.58M
+40                                                                Misery      (1990)  107 min   7.8  75            202,121          $61.28M
+41                                                    500 Days of Summer      (2009)   95 min   7.7  76            500,683          $32.39M
+42                                           The Best Years of Our Lives      (1946)  170 min   8.1  93             62,693          $23.65M
+43                                                   Lost in Translation      (2003)  102 min   7.7  89            443,027          $44.59M
+44                                                     American Gangster      (2007)  157 min   7.8  76            417,435         $130.16M
+45                                   Lock, Stock and Two Smoking Barrels      (1998)  107 min   8.2  66            568,747           $3.90M
+46                                    Indiana Jones and the Last Crusade      (1989)  127 min   8.3  65            735,207         $197.17M
+47                                                Grave of the Fireflies      (1988)   89 min   8.5  94            264,675              #48
+48                                                                Wonder  (I) (2017)  113 min   7.9  66            159,189         $132.42M
+49                                                        Before Sunrise      (1995)  101 min   8.1  77            296,828           $5.54M                              movie        year  timeMin  imdb    metascore    votes us_grossMillions
+0         Die Hard with a Vengeance      (1995)  128 min   7.6   58          381,330         $100.01M
+1                 The King's Speech      (2010)  118 min   8.0   88          668,943         $138.80M
+2              Being John Malkovich      (1999)  113 min   7.8   90          329,099          $22.86M
+3                          Rain Man      (1988)  133 min   8.0   65          501,185         $178.80M
+4                 Road to Perdition      (2002)  117 min   7.7   72          262,578         $104.45M
+5                           Ben-Hur      (1959)  212 min   8.1   90          234,182          $74.70M
+6                 Princess Mononoke      (1997)  134 min   8.4   76          379,524           $2.38M
+7                      The Fugitive      (1993)  130 min   7.8   87          287,253         $183.88M
+8                     The Machinist      (2004)  101 min   7.7   61          380,324           $1.08M
+9                       The Fighter  (I) (2010)  116 min   7.8   79          358,733          $93.62M
+10                Kill Bill: Vol. 2      (2004)  137 min   8.0   83          733,625          $66.21M
+11                          The Fly      (1986)   96 min   7.6   79          175,307          $40.46M
+12                        Cast Away      (2000)  143 min   7.8   73          573,005         $233.63M
+13                             Moon      (2009)   97 min   7.8   67          352,578           $5.01M
+14             Beauty and the Beast      (1991)   84 min   8.1   95          439,193         $218.97M
+15                        The Sting      (1973)  129 min   8.3   83          256,469         $159.60M
+16       The Trial of the Chicago 7      (2020)  129 min   7.8   76          169,606                -
+17                         Coraline      (2009)  100 min   7.7   80          217,714          $75.29M
+18                     3:10 to Yuma      (2007)  122 min   7.7   76          305,041          $53.61M
+19     Once Upon a Time in the West      (1968)  165 min   8.5   80          322,113           $5.32M
+20                     The Graduate      (1967)  106 min   8.0   83          268,352         $104.95M
+21                        Capernaum      (2018)  126 min   8.4   75           83,571           $1.66M
+22  The Girl with the Dragon Tattoo      (2009)  152 min   7.8   76          215,245          $10.10M
+23                Y tu mamá también      (2001)  106 min   7.7   88          121,346          $13.62M
+24                     Philadelphia      (1993)  125 min   7.7   66          237,375          $77.32M
+25                      Toy Story 3      (2010)  103 min   8.3   92          809,501         $415.00M
+26               The Little Mermaid      (1989)   83 min   7.6   88          254,479         $111.54M
+27            Sense and Sensibility      (1995)  136 min   7.7   84          113,055          $43.18M
+28                 The Untouchables      (1987)  119 min   7.9   79          302,000          $76.27M
+29                     Seven Pounds      (2008)  123 min   7.6   36          299,057          $69.95M
+30                 Eastern Promises      (2007)  100 min   7.6   82          239,161          $17.11M
+31                    Walk the Line      (2005)  136 min   7.8   72          246,608         $119.52M
+32                      Deliverance      (1972)  109 min   7.7   80          106,316           $7.06M
+33                          Aladdin      (1992)   90 min   8.1   86          399,456         $217.35M
+34                          Serpico      (1973)  130 min   7.7   87          120,156          $29.80M
+35            It's a Wonderful Life      (1946)  130 min   8.7   89          442,785              #21
+36                         Serenity      (2005)  119 min   7.8   74          293,214          $25.51M
+37        Hunt for the Wilderpeople      (2016)  101 min   7.8   81          126,064           $5.20M
+38                      Lord of War      (2005)  122 min   7.6   62          309,655          $24.15M
+39                    Seven Samurai      (1954)  207 min   8.7   98          337,566           $0.27M
+40                          Boyhood  (I) (2014)  165 min   7.9  100          349,744          $25.38M
+41   The Boy in the Striped Pajamas      (2008)   94 min   7.8   55          211,160           $9.03M
+42           Straight Outta Compton      (2015)  147 min   7.8   72          196,235         $161.20M
+43                       Big Hero 6      (2014)  102 min   7.8   74          445,311         $222.53M
+44               As Good as It Gets      (1997)  139 min   7.7   67          293,690         $148.48M
+45                     Citizen Kane      (1941)  119 min   8.3  100          432,657           $1.59M
+46              The Boondock Saints      (1999)  108 min   7.7   44          236,661           $0.03M
+47           The Fault in Our Stars      (2014)  126 min   7.7   69          367,387         $124.87M
+48                             Roma      (2018)  135 min   7.7   96          153,879                -
+49                       District 9      (2009)  112 min   7.9   81          667,994         $115.65M                                  movie         year  timeMin  imdb    metascore    votes us_grossMillions
+0        Crouching Tiger, Hidden Dragon       (2000)  120 min   7.9   94          264,807         $128.08M
+1                            Mr. Nobody       (2009)  141 min   7.8   63          229,263           $0.00M
+2                           Raging Bull       (1980)  129 min   8.2   89          344,532          $23.38M
+3            Back to the Future Part II       (1989)  108 min   7.9   57          515,766         $118.50M
+4                           Gran Torino       (2008)  116 min   8.1   72          758,849         $148.10M
+5                             In Bruges       (2008)  107 min   7.9   67          412,166           $7.76M
+6              The Theory of Everything       (2014)  123 min   7.7   71          438,220          $35.89M
+7                   Edward Scissorhands       (1990)  105 min   7.9   74          475,076          $56.36M
+8       Monty Python and the Holy Grail       (1975)   91 min   8.2   91          529,359           $1.23M
+9                     The Thin Red Line       (1998)  170 min   7.6   78          184,704          $36.40M
+10                  The Invisible Guest       (2016)  106 min   8.1            0  169,247                -
+11                     Some Like It Hot       (1959)  121 min   8.2   98          261,097          $25.00M
+12                       Wreck-It Ralph       (2012)  101 min   7.7   72          409,454         $189.42M
+13           Portrait of a Lady on Fire       (2019)  122 min   8.1   95           84,879           $3.76M
+14                         The Wrestler       (2008)  109 min   7.9   80          301,508          $26.24M
+15                      Boyz n the Hood       (1991)  112 min   7.8   76          137,264          $57.50M
+16                    Fantastic Mr. Fox       (2009)   87 min   7.9   83          223,376          $21.00M
+17                          Match Point       (2005)  124 min   7.6   72          215,435          $23.09M
+18  Demon Slayer the Movie: Mugen Train       (2020)  117 min   8.3   72           51,027          $47.70M
+19                           Zombieland       (2009)   88 min   7.6   73          557,599          $75.59M
+20                           Life of Pi       (2012)  127 min   7.9   79          614,487         $124.99M
+21                           Stagecoach       (1939)   96 min   7.8   93           47,929                -
+22                                Naked       (1993)  131 min   7.8   85           38,544           $1.77M
+23                          Rear Window       (1954)  112 min   8.5  100          478,489          $36.76M
+24                      Minority Report       (2002)  145 min   7.7   80          538,160         $132.07M
+25                     Scent of a Woman       (1992)  156 min   8.0   59          287,381          $63.90M
+26                            Apollo 13   (I) (1995)  140 min   7.7   77          288,243         $173.84M
+27          What's Eating Gilbert Grape       (1993)  118 min   7.8   73          231,053           $9.17M
+28                                Mulan       (1998)   88 min   7.6   71          278,109         $120.62M
+29                 The Royal Tenenbaums       (2001)  110 min   7.6   76          286,380          $52.36M
+30                                 Lion       (2016)  118 min   8.0   69          231,176          $51.74M
+31                            Nosferatu       (1922)   94 min   7.9            0   94,888                -
+32       Dawn of the Planet of the Apes       (2014)  130 min   7.6   79          432,164         $208.55M
+33                          Adaptation.       (2002)  115 min   7.7   83          189,476          $22.25M
+34                             Dogville       (2003)  178 min   8.0   60          146,391           $1.53M
+35                          Primal Fear       (1996)  129 min   7.7   47          207,294          $56.12M
+36                   Planet of the Apes       (1968)  112 min   8.0   79          176,524          $33.40M
+37                          The Hustler       (1961)  134 min   8.0   90           80,801           $8.28M
+38                      Rosemary's Baby       (1968)  137 min   8.0   96          209,700                -
+39                          Toy Story 2       (1999)   92 min   7.9   88          563,405         $245.85M
+40                              Vertigo       (1958)  128 min   8.3  100          392,838           $3.20M
+41                The Last Picture Show       (1971)  118 min   8.0   93           47,258          $29.13M
+42                        Lethal Weapon       (1987)  109 min   7.6   68          252,994          $65.21M
+43                              Network       (1976)  121 min   8.1   83          156,309             #221
+44                    Dog Day Afternoon       (1975)  125 min   8.0   86          251,416          $50.00M
+45                       Gone Baby Gone       (2007)  114 min   7.6   72          268,211          $20.30M
+46                          First Blood       (1982)   93 min   7.7   61          245,040          $47.21M
+47                        Groundhog Day       (1993)  101 min   8.1   72          611,215          $70.91M
+48                   Young Frankenstein       (1974)  106 min   8.0   80          154,981          $86.30M
+49                                Creed  (II) (2015)  133 min   7.6   82          266,022         $109.77M                                 movie    year  timeMin  imdb   metascore    votes us_grossMillions
+0                         East of Eden  (1955)  118 min   7.8  72           44,785                -
+1                The French Connection  (1971)  104 min   7.7  94          120,075          $15.63M
+2                  Fiddler on the Roof  (1971)  181 min   8.0  67           42,899          $80.50M
+3                     The Road Warrior  (1981)   96 min   7.6  77          176,826          $12.47M
+4                           The Others  (2001)  104 min   7.6  74          357,894          $96.52M
+5                         Perfect Blue  (1997)   81 min   8.0           0   70,968           $0.78M
+6                        Donnie Brasco  (1997)  127 min   7.7  76          298,819          $41.91M
+7              Who Framed Roger Rabbit  (1988)  104 min   7.7  83          195,889         $156.45M
+8                      Bridge of Spies  (2015)  142 min   7.6  81          305,521          $72.31M
+9              Star Trek Into Darkness  (2013)  132 min   7.7  72          478,300         $228.78M
+10                           Dark City  (1998)  100 min   7.6  66          197,321          $14.38M
+11                             Traffic  (2000)  147 min   7.6  86          205,109         $124.12M
+12                           Spartacus  (1960)  197 min   7.9  87          132,697          $30.00M
+13                            The Boat  (1981)  149 min   8.4  86          246,173          $11.49M
+14                  The Skin I Live In  (2011)  120 min   7.6  70          149,487           $3.19M
+15                  The Blues Brothers  (1980)  133 min   7.9  60          194,922          $57.23M
+16                     Cinema Paradiso  (1988)  155 min   8.5  80          253,219          $11.99M
+17                           The Birds  (1963)  119 min   7.7  90          184,467          $11.40M
+18          The World's Fastest Indian  (2005)  127 min   7.8  68           54,281           $5.13M
+19                    The Elephant Man  (1980)  124 min   8.2  78          235,971             #156
+20                      Doctor Zhivago  (1965)  197 min   8.0  69           75,432         $111.72M
+21                        Evil Dead II  (1987)   84 min   7.7  72          159,322           $5.92M
+22                       Carlito's Way  (1993)  144 min   7.9  65          213,642          $36.95M
+23                        Barry Lyndon  (1975)  185 min   8.1  89          163,218             #196
+24                        A Bronx Tale  (1993)  121 min   7.8  80          137,872          $17.27M
+25             When Harry Met Sally...  (1989)   95 min   7.7  76          212,142          $92.82M
+26                         October Sky  (1999)  108 min   7.8  71           89,144          $32.48M
+27                  My Neighbor Totoro  (1988)   86 min   8.2  86          325,054           $1.11M
+28                  North by Northwest  (1959)  136 min   8.3  98          320,286          $13.28M
+29                           127 Hours  (2010)   94 min   7.6  82          369,721          $18.34M
+30                        Sunset Blvd.  (1950)  110 min   8.4           0  216,628              #59
+31            The Secret in Their Eyes  (2009)  129 min   8.2  80          205,529           $6.39M
+32                In the Mood for Love  (2000)   98 min   8.1  85          143,879           $2.73M
+33  Close Encounters of the Third Kind  (1977)  138 min   7.6  90          197,330         $132.09M
+34                              Hamlet  (1996)  242 min   7.8           0   37,792           $4.41M
+35            A Streetcar Named Desire  (1951)  122 min   8.0  97          106,332           $8.00M
+36                The Bourne Ultimatum  (2007)  115 min   8.0  85          625,940         $227.47M
+37                    The Conversation  (1974)  113 min   7.8  87          109,227           $4.42M
+38     Who's Afraid of Virginia Woolf?  (1966)  131 min   8.0  75           74,136                -
+39                     Ordinary People  (1980)  124 min   7.8  86           51,172          $54.80M
+40                The Bourne Supremacy  (2004)  108 min   7.7  73          455,749         $176.24M
+41                        End of Watch  (2012)  109 min   7.6  68          242,809          $41.00M
+42                 Mississippi Burning  (1988)  128 min   7.8  65           98,276          $34.60M
+43                    The Great Escape  (1963)  172 min   8.2  86          239,783          $12.10M
+44                               Glory  (1989)  122 min   7.8  78          132,779          $26.83M
+45                    Captain Phillips  (2013)  134 min   7.8  82          448,737         $107.10M
+46                 Hachi: A Dog's Tale  (2009)   93 min   8.1           0  276,141             #225
+47                  Do the Right Thing  (1989)  120 min   7.9  93           99,649          $27.55M
+48                                   M  (1931)   99 min   8.3           0  154,596           $0.03M
+49                     I Saw the Devil  (2010)  144 min   7.8  67          125,225           $0.13M                                 movie        year  timeMin  imdb   metascore    votes us_grossMillions
+0                        Life of Brian      (1979)   94 min   8.1  77          391,029          $20.05M
+1                     The Great Beauty      (2013)  141 min   7.7  86           88,788           $2.85M
+2                 Let the Right One In      (2008)  114 min   7.9  82          214,110           $2.12M
+3                          Sing Street      (2016)  106 min   7.9  79           91,826           $3.24M
+4                         Isle of Dogs      (2018)  101 min   7.8  82          162,063          $32.02M
+5               Breakfast at Tiffany's      (1961)  115 min   7.6  76          176,643                -
+6             In the Heat of the Night      (1967)  110 min   8.0  75           74,757          $24.38M
+7                    On the Waterfront      (1954)  108 min   8.1  91          152,034           $9.60M
+8                          Sling Blade      (1996)  135 min   8.0  84           92,774          $24.48M
+9            In the Name of the Father      (1993)  133 min   8.1  84          170,660          $25.01M
+10      Rise of the Planet of the Apes      (2011)  105 min   7.6  68          517,968         $176.76M
+11                    Bonnie and Clyde      (1967)  111 min   7.8  86          110,687                -
+12                     The Illusionist      (2006)  110 min   7.6  68          367,953          $39.87M
+13                          Metropolis      (1927)  153 min   8.3  98          170,879           $1.24M
+14                                 JFK      (1991)  189 min   8.0  72          152,799          $70.41M
+15           A Silent Voice: The Movie      (2016)  130 min   8.1  78           73,865                -
+16                          Wild Tales      (2014)  122 min   8.1  77          192,620           $3.11M
+17                  The Man from Earth      (2007)   87 min   7.9           0  184,334                -
+18                          Changeling      (2008)  141 min   7.8  63          251,782          $35.74M
+19                    The Color Purple      (1985)  154 min   7.7  78           84,945          $98.47M
+20                              Gandhi      (1982)  191 min   8.1  79          227,022          $52.77M
+21                           High Noon      (1952)   85 min   8.0  89          102,813           $9.45M
+22                The Raid: Redemption      (2011)  101 min   7.6  73          201,113           $4.11M
+23                         The Insider      (1999)  157 min   7.8  84          168,808          $28.97M
+24                        Billy Elliot      (2000)  110 min   7.7  74          133,196          $22.00M
+25                               Akira      (1988)  124 min   8.0  67          180,061           $0.55M
+26                  This Is Spinal Tap      (1984)   82 min   7.9  92          137,543           $4.74M
+27                         Dirty Harry      (1971)  102 min   7.7  87          152,965          $35.90M
+28                          Goldfinger      (1964)  110 min   7.7  87          186,111          $51.08M
+29     Snow White and the Seven Dwarfs      (1937)   83 min   7.6  95          194,532         $184.93M
+30                     The Jungle Book      (1967)   78 min   7.6  65          177,812         $141.84M
+31                             Stalker      (1979)  162 min   8.1           0  130,807           $0.23M
+32                       The Apartment      (1960)  125 min   8.3  94          177,330          $18.60M
+33                   Where Eagles Dare      (1968)  158 min   7.6  63           57,261                -
+34                Fried Green Tomatoes      (1991)  130 min   7.7  64           73,181          $82.42M
+35                              Brazil      (1985)  132 min   7.9  84          198,046           $9.93M
+36                             Flipped  (I) (2010)   90 min   7.7  45           88,560           $1.75M
+37               The Magnificent Seven      (1960)  128 min   7.7  74           93,466           $4.91M
+38  Butch Cassidy and the Sundance Kid      (1969)  110 min   8.0  66          212,602         $102.31M
+39                       Before Sunset      (2004)   80 min   8.1  90          255,789           $5.82M
+40                            Papillon      (1973)  151 min   8.0  58          128,664          $53.27M
+41               It Happened One Night      (1934)  105 min   8.1  87          101,721           $4.36M
+42                              Ip Man      (2008)  106 min   8.0  59          220,789                -
+43                            La Haine      (1995)   98 min   8.1           0  167,007           $0.31M
+44                   Chungking Express      (1994)  102 min   8.0  78           76,632           $0.60M
+45                     Before Midnight      (2013)  109 min   7.9  94          153,366           $8.11M
+46                        A Separation      (2011)  123 min   8.3  95          240,268           $7.10M
+47                          Annie Hall      (1977)   93 min   8.0  92          262,003          $39.20M
+48                   The Holy Mountain      (1973)  114 min   7.8  76           41,754           $0.06M
+49              For a Few Dollars More      (1965)  132 min   8.3  74          250,393          $15.00M                                             movie        year  timeMin  imdb   metascore    votes us_grossMillions
+0                                  This Is England      (2006)  101 min   7.7  86          120,932           $0.33M
+1                              Lucky Number Slevin      (2006)  110 min   7.7  53          309,778          $22.49M
+2                             A Fistful of Dollars      (1964)   99 min   7.9  65          212,403          $14.50M
+3                                     My Fair Lady      (1964)  170 min   7.8  95           93,834          $72.00M
+4                     Batman: Mask of the Phantasm      (1993)   76 min   7.8           0   49,321           $5.62M
+5                                 Enter the Dragon      (1973)  102 min   7.6  83          102,900          $25.00M
+6                               The Killing Fields      (1984)  141 min   7.8  76           54,915          $34.70M
+7                                         Rushmore      (1998)   93 min   7.6  86          182,175          $17.11M
+8                                 The Seventh Seal      (1957)   96 min   8.1  88          180,939             #199
+9                               Ghost in the Shell      (1995)   83 min   7.9  76          139,593           $0.52M
+10                              The King of Comedy      (1982)  109 min   7.8  73          100,118           $2.50M
+11                                       Stalag 17      (1953)  120 min   8.0  84           55,165                -
+12                            The Name of the Rose      (1986)  130 min   7.7  54          107,237           $7.15M
+13                                        I Am Sam      (2001)  132 min   7.6  28          148,831          $40.31M
+14                                  Kung Fu Hustle      (2004)   99 min   7.7  78          136,237          $17.11M
+15                         All the President's Men      (1976)  138 min   7.9  84          112,761          $70.60M
+16                                       Malcolm X      (1992)  202 min   7.7  73           92,908          $48.17M
+17                                        The Fall      (2006)  117 min   7.8  64          111,237           $2.28M
+18                                      Awakenings      (1990)  121 min   7.8  74          137,062          $52.10M
+19                                Harold and Maude      (1971)   91 min   7.9  62           76,333                -
+20                      How to Train Your Dragon 2      (2014)  102 min   7.8  77          325,784         $177.00M
+21                               Kramer vs. Kramer      (1979)  105 min   7.8  77          142,694         $106.26M
+22                             Glengarry Glen Ross      (1992)  100 min   7.7  82          103,278          $10.73M
+23                                             Ray  (I) (2004)  152 min   7.7  73          145,692          $75.33M
+24                                          Patton      (1970)  172 min   8.0  91          100,715          $61.70M
+25                             The Grapes of Wrath      (1940)  129 min   8.1  96           91,159           $0.06M
+26                                     Being There      (1979)  130 min   8.0  83           71,411          $30.18M
+27                                    Hotel Rwanda      (2004)  121 min   8.1  79          349,900          $23.53M
+28                                    Paddington 2      (2017)  103 min   7.8  88           72,458          $40.44M
+29                                             Ran      (1985)  162 min   8.2  96          122,732           $4.14M
+30                                     Wolfwalkers      (2020)  103 min   8.0  87           29,819                -
+31                                           Ponyo      (2008)  101 min   7.6  86          138,683          $15.09M
+32                                  The Best Offer      (2013)  131 min   7.8  49          116,623           $0.09M
+33                        Night of the Living Dead      (1968)   96 min   7.8  89          125,367           $0.09M
+34                                    Paris, Texas      (1984)  145 min   8.1  78          103,143           $2.18M
+35                  The Nightmare Before Christmas      (1993)   76 min   8.0  82          325,439          $75.08M
+36                                         Ed Wood      (1994)  127 min   7.9  70          173,581           $5.89M
+37                             All About My Mother      (1999)  101 min   7.8  87           95,197           $8.26M
+38                                   The Searchers      (1956)  119 min   7.9  94           87,549                -
+39                                  Cool Hand Luke      (1967)  127 min   8.1  92          173,884          $16.22M
+40                                         Rebecca      (1940)  130 min   8.1  86          134,483           $4.36M
+41                                  The Iron Giant      (1999)   86 min   8.1  85          186,489          $23.16M
+42                       The Last King of Scotland      (2006)  123 min   7.7  74          183,997          $17.61M
+43                             Blood In, Blood Out      (1993)  180 min   7.9  47           30,845           $4.50M
+44                 Star Trek II: The Wrath of Khan      (1982)  113 min   7.7  67          119,115          $78.91M
+45                                    My Left Foot      (1989)  103 min   7.9  97           73,063          $14.74M
+46                                      Paper Moon      (1973)  102 min   8.1  77           46,551          $30.93M
+47                          The Remains of the Day      (1993)  134 min   7.8  86           72,536          $22.95M
+48                              Dancer in the Dark      (2000)  140 min   8.0  61          108,183           $4.18M
+49  The Naked Gun: From the Files of Police Squad!      (1988)   85 min   7.6  76          165,000          $78.76M                                 movie          year  timeMin  imdb   metascore    votes us_grossMillions
+0                              Paprika        (2006)   90 min   7.7  81           80,125           $0.88M
+1                        Battle Royale        (2000)  114 min   7.6  81          180,045                -
+2                Rebel Without a Cause        (1955)  111 min   7.7  89           89,081                -
+3                             21 Grams        (2003)  124 min   7.7  70          233,964          $16.29M
+4                      The Dirty Dozen        (1967)  150 min   7.7  73           71,691          $45.30M
+5     What Ever Happened to Baby Jane?        (1962)  134 min   8.0  75           54,685           $4.05M
+6                       The Wild Bunch        (1969)  135 min   7.9  97           83,337          $12.06M
+7                           Detachment        (2011)   98 min   7.7  52           83,435           $0.07M
+8                     Dawn of the Dead        (1978)  127 min   7.9  71          118,401           $5.10M
+9                            Hara-Kiri        (1962)  133 min   8.6  85           53,236              #47
+10                       Amores perros        (2000)  154 min   8.1  83          236,502           $5.38M
+11                              Clerks        (1994)   92 min   7.7  70          219,308           $3.15M
+12                           Searching  (III) (2018)  102 min   7.6  71          158,322          $26.02M
+13                              Harvey        (1950)  104 min   7.9           0   55,112                -
+14                    Double Indemnity        (1944)  107 min   8.3  95          153,648           $5.72M
+15                     Out of the Past        (1947)   97 min   8.0           0   36,358                -
+16                             Persona        (1966)   83 min   8.1  86          114,865             #241
+17                      Paths of Glory        (1957)   88 min   8.4  90          192,386              #61
+18                              Mother        (2009)  129 min   7.8  79           61,588           $0.55M
+19                              Dangal        (2016)  161 min   8.4           0  180,876          $12.39M
+20                             Solaris        (1972)  167 min   8.0  90           89,268                -
+21                     Mysterious Skin        (2004)  105 min   7.6  73           68,778           $0.70M
+22              The Outlaw Josey Wales        (1976)  135 min   7.8  69           72,127          $31.80M
+23                   Miller's Crossing        (1990)  115 min   7.7  66          133,512           $5.08M
+24                         The Killing        (1956)   84 min   8.0  91           88,226                -
+25                                  8½        (1963)  138 min   8.0  91          116,076           $0.05M
+26                   The Virgin Spring        (1960)   89 min   8.1           0   28,773           $1.53M
+27                                   Z        (1969)  127 min   8.2  86           27,976           $0.08M
+28         Witness for the Prosecution        (1957)  116 min   8.4           0  121,328           $8.18M
+29                             Charade        (1963)  113 min   7.9  83           75,387          $13.47M
+30             Kiki's Delivery Service        (1989)  103 min   7.8  83          139,043                -
+31                         After Hours    (I) (1985)   97 min   7.6  90           67,387          $10.60M
+32                 Like Stars on Earth        (2007)  165 min   8.4           0  187,409           $1.22M
+33                     The Right Stuff        (1983)  193 min   7.8  91           60,543          $21.50M
+34                         Barton Fink        (1991)  116 min   7.6  69          119,530           $6.15M
+35                   Dial M for Murder        (1954)  105 min   8.2  75          171,613           $0.01M
+36                      The Wind Rises        (2013)  126 min   7.8  83           82,615           $5.21M
+37  Nausicaä of the Valley of the Wind        (1984)  117 min   8.0  86          165,552           $0.50M
+38                      Cinderella Man        (2005)  144 min   8.0  69          184,738          $61.65M
+39                   The African Queen        (1951)  105 min   7.7  91           77,587           $0.54M
+40       The Bridges of Madison County        (1995)  135 min   7.6  69           79,600          $71.52M
+41        Guess Who's Coming to Dinner        (1967)  108 min   7.8  63           44,544          $56.70M
+42                               Amour        (2012)  127 min   7.9  94           98,699           $6.74M
+43                               Klaus        (2019)   96 min   8.2  65          140,386             #200
+44                       The Third Man        (1949)   93 min   8.1  97          168,869           $0.45M
+45                  Breaking the Waves        (1996)  159 min   7.8  76           65,957           $4.04M
+46                  The Maltese Falcon        (1941)  100 min   8.0  97          156,223           $2.11M
+47                          The Raid 2        (2014)  150 min   7.9  71          121,243           $2.63M
+48                           Happiness        (1998)  134 min   7.7  81           69,532           $2.81M
+49                                Togo        (2019)  113 min   8.0  69           46,442                -                                             movie        year  timeMin  imdb   metascore    votes us_grossMillions
+0                             Pink Floyd: The Wall      (1982)   95 min   8.0  47           79,931          $22.24M
+1                                             Hero      (2002)  120 min   7.9  85          179,709          $53.71M
+2                                          Tumbbad      (2018)  104 min   8.3           0   41,042                -
+3                                      Talk to Her      (2002)  112 min   7.9  86          111,040           $9.28M
+4                   Me and Earl and the Dying Girl      (2015)  105 min   7.7  74          129,682           $6.74M
+5                                         Rashomon      (1950)   88 min   8.2  98          164,739           $0.10M
+6                               The Straight Story      (1999)  112 min   8.0  86           88,959           $6.20M
+7                                            Mommy  (I) (2014)  139 min   8.0  74           55,686           $3.49M
+8                                    Belle de Jour      (1967)  100 min   7.7           0   43,623           $0.03M
+9                                Castle in the Sky      (1986)  125 min   8.0  78          162,228                -
+10                                      Black Book      (2006)  145 min   7.7  71           76,155           $4.40M
+11                                     Shoplifters      (2018)  121 min   7.9  93           73,204           $3.31M
+12                                   The Quiet Man      (1952)  129 min   7.7  85           38,085          $10.55M
+13                         The Night of the Hunter      (1955)   92 min   8.0  99           87,794           $0.65M
+14                                  Days of Heaven      (1978)   94 min   7.8  93           57,146                -
+15                               Finding Neverland      (2004)  106 min   7.7  67          204,330          $51.68M
+16                                        Gaslight      (1944)  114 min   7.8           0   28,032                -
+17                              The Great Dictator      (1940)  125 min   8.4           0  219,180           $0.29M
+18                                           50/50      (2011)  100 min   7.6  72          326,571          $35.01M
+19                                 The Longest Day      (1962)  178 min   7.7  75           55,037          $39.10M
+20                                       Rio Bravo      (1959)  141 min   8.0  93           61,183          $12.54M
+21                The Man Who Shot Liberty Valance      (1962)  123 min   8.1  94           74,588                -
+22                           Letters from Iwo Jima      (2006)  141 min   7.9  89          160,802          $13.76M
+23                                  Open Your Eyes      (1997)  119 min   7.7           0   68,532           $0.37M
+24                                          Freaks      (1932)   64 min   7.9  80           45,548                -
+25                                     The Verdict      (1982)  129 min   7.7  77           39,553          $54.00M
+26                           The Day of the Jackal      (1973)  143 min   7.8  80           40,297          $16.06M
+27                                   Short Term 12      (2013)   96 min   7.9  82           86,746           $1.01M
+28                                       King Kong      (1933)  100 min   7.9  90           84,168          $10.00M
+29                                    Sardar Udham      (2021)  164 min   8.8           0   38,530                -
+30  Neon Genesis Evangelion: The End of Evangelion      (1997)   87 min   8.1           0   51,495                -
+31                   The Day the Earth Stood Still      (1951)   92 min   7.8           0   80,881                -
+32                                    Run Lola Run      (1998)   80 min   7.7  77          196,495           $7.27M
+33                           Judgment at Nuremberg      (1961)  179 min   8.3  60           75,885             #137
+34                                            Rope      (1948)   80 min   8.0  73          140,274                -
+35                                A Man Called Ove      (2015)  116 min   7.7  70           53,192           $3.36M
+36                                   Roman Holiday      (1953)  118 min   8.0  78          136,123                -
+37                                        Badlands      (1973)   94 min   7.8  93           71,671                -
+38                              The Lion in Winter      (1968)  134 min   7.9           0   31,135          $22.28M
+39                  All Quiet on the Western Front      (1930)  152 min   8.1  91           60,632           $3.27M
+40                                   La Dolce Vita      (1960)  174 min   8.0  95           71,717          $19.52M
+41                           From Here to Eternity      (1953)  118 min   7.6  85           46,328          $30.50M
+42                                 The Celebration      (1998)  105 min   8.1  82           85,569           $1.65M
+43                                       25th Hour      (2002)  135 min   7.6  68          176,964          $13.06M
+44                                         Yojimbo      (1961)  110 min   8.2  93          120,319             #145
+45                               The Station Agent      (2003)   89 min   7.6  81           69,980           $5.74M
+46                                  Loving Vincent      (2017)   94 min   7.8  62           56,517           $6.74M
+47                                    Modern Times      (1936)   87 min   8.5  96          236,086           $0.16M
+48                                 Wings of Desire      (1987)  128 min   8.0  79           69,724           $3.33M
+49                                    Mary and Max      (2009)   92 min   8.1           0  174,325             #205                                    movie        year  timeMin  imdb    metascore    votes us_grossMillions
+0                                    Once  (I) (2007)   86 min   7.8   88          115,421           $9.44M
+1      South Park: Bigger, Longer & Uncut      (1999)   81 min   7.7   73          201,764          $52.04M
+2                           Andrei Rublev      (1966)  205 min   8.1            0   52,694           $0.10M
+3                               Philomena      (2013)   98 min   7.6   77           99,034          $37.71M
+4                     Fanny and Alexander      (1982)  188 min   8.1  100           62,965           $4.97M
+5                           Touch of Evil      (1958)   95 min   8.0   99          103,218           $2.24M
+6                     Beasts of No Nation      (2015)  137 min   7.7   79           79,872           $0.08M
+7                               Shershaah      (2021)  135 min   8.9            0  115,910                -
+8                Kubo and the Two Strings      (2016)  101 min   7.8   84          126,543          $48.02M
+9                               Notorious      (1946)  102 min   7.9  100           99,532          $10.46M
+10                      Perfect Strangers      (2016)   96 min   7.7            0   63,635                -
+11                               Nebraska      (2013)  115 min   7.7   87          116,944          $17.65M
+12                            Waking Life      (2001)   99 min   7.7   83           63,464           $2.89M
+13                  A Man for All Seasons      (1966)  120 min   7.7   72           34,111          $28.35M
+14                      A Christmas Story      (1983)   93 min   8.0   77          145,995          $20.61M
+15                             Breathless      (1960)   90 min   7.7            0   79,457           $0.34M
+16                     Three Colors: Blue      (1993)   94 min   7.9   85           99,526           $1.32M
+17                              United 93      (2006)  111 min   7.6   90          105,305          $31.57M
+18                        Bicycle Thieves      (1948)   89 min   8.3            0  160,056           $0.33M
+19                        Good Bye Lenin!      (2003)  121 min   7.7   68          144,432           $4.06M
+20                         Happy Together      (1997)   96 min   7.7   70           27,840           $0.19M
+21                  Cat on a Hot Tin Roof      (1958)  108 min   8.0   84           48,668          $17.57M
+22  The Discreet Charm of the Bourgeoisie      (1972)  102 min   7.8   93           42,214           $0.20M
+23                         The Sea Inside  (I) (2004)  126 min   8.0   74           81,013           $2.09M
+24                          The 400 Blows      (1959)   99 min   8.1            0  114,946             #240
+25                                 Mirror      (1975)  107 min   8.0   80           45,267           $0.18M
+26       The Treasure of the Sierra Madre      (1948)  126 min   8.2   98          122,551           $5.01M
+27                                  Pride  (I) (2014)  119 min   7.8   79           55,503                -
+28                                Sabrina      (1954)  113 min   7.6   72           63,805                -
+29              Hedwig and the Angry Inch      (2001)   95 min   7.7   85           35,213           $3.03M
+30                       Cries & Whispers      (1972)   91 min   8.0            0   33,475           $1.74M
+31                          The Big Sleep      (1946)  114 min   7.9            0   84,278           $6.54M
+32                  Miracle in Cell No. 7      (2019)  132 min   8.2            0   46,555                -
+33                   Whisper of the Heart      (1995)  111 min   7.9   75           60,046                -
+34                       Fantastic Planet      (1973)   72 min   7.7   73           29,973           $0.19M
+35              The Man Who Would Be King      (1975)  129 min   7.8   91           48,255                -
+36                     Gangs of Wasseypur      (2012)  321 min   8.2   89           93,344                -
+37                       Infernal Affairs      (2002)  101 min   8.0   75          123,178           $0.17M
+38                            Porco Rosso      (1992)   94 min   7.7   83           86,641                -
+39                              Manhattan      (1979)   96 min   7.9   83          138,523          $45.70M
+40                               Fantasia      (1940)  125 min   7.7   96           94,269          $76.41M
+41                 A Very Long Engagement      (2004)  133 min   7.6   76           73,376           $6.17M
+42                             The Chaser      (2008)  125 min   7.8   64           64,541                -
+43                   The Man from Nowhere      (2010)  119 min   7.7            0   68,246           $0.01M
+44                            Dersu Uzala      (1975)  142 min   8.2            0   27,875             #231
+45               The Manchurian Candidate      (1962)  126 min   7.9   94           74,707                -
+46                     Once Were Warriors      (1994)  102 min   7.9   77           33,787           $2.20M
+47                           Frankenstein      (1931)   70 min   7.8   91           70,796                -
+48                                   Zulu      (1964)  138 min   7.7   77           38,651                -
+49                 The Philadelphia Story      (1940)  112 min   7.9   96           68,115                -                                movie    year  timeMin  imdb    metascore    votes us_grossMillions
+0                        Lilya 4-Ever  (2002)  109 min   7.8   82           45,125           $0.18M
+1                  The Legend of 1900  (1998)  169 min   8.0   58           63,112           $0.26M
+2                          Short Cuts  (1993)  188 min   7.7   79           44,433           $6.11M
+3                         Le Samouraï  (1967)  101 min   8.0            0   50,222           $0.04M
+4                    The White Ribbon  (2009)  144 min   7.8   82           72,625           $2.22M
+5                Strangers on a Train  (1951)  101 min   7.9   88          131,838           $7.63M
+6                 Anatomy of a Murder  (1959)  161 min   8.0   95           65,179          $11.90M
+7                        High and Low  (1963)  143 min   8.4            0   42,309              #92
+8                           Nashville  (1975)  160 min   7.7   96           25,906          $14.82M
+9                  Children of Heaven  (1997)   89 min   8.2   77           73,136           $0.93M
+10       Mr. Smith Goes to Washington  (1939)  129 min   8.1   73          113,922           $9.60M
+11                       The Salesman  (2016)  124 min   7.7   85           59,375           $2.40M
+12                          Leviathan  (2014)  140 min   7.6   92           52,766           $1.09M
+13         You Can't Take It with You  (1938)  126 min   7.8            0   25,396           $4.66M
+14                     Secrets & Lies  (1996)  136 min   8.0   91           42,449          $13.42M
+15                        City Lights  (1931)   87 min   8.5   99          180,809           $0.02M
+16                              Ikiru  (1952)  143 min   8.3   91           76,307           $0.06M
+17                           Amarcord  (1973)  123 min   7.9            0   42,950           $0.58M
+18                  Wild Strawberries  (1957)   91 min   8.2   88          105,164             #187
+19           Dragon Ball Super: Broly  (2018)  100 min   7.8   59           25,984          $30.71M
+20        The Cabinet of Dr. Caligari  (1920)   67 min   8.0            0   62,252                -
+21       The Adventures of Robin Hood  (1938)  102 min   7.9   97           50,422           $3.98M
+22                          Andhadhun  (2018)  139 min   8.2            0   88,576           $1.37M
+23                    Song of the Sea  (2014)   93 min   8.1   85           57,081           $0.86M
+24     Invasion of the Body Snatchers  (1956)   80 min   7.7   92           48,713                -
+25                     Night on Earth  (1991)  129 min   7.7   68           59,540           $2.02M
+26           Kind Hearts and Coronets  (1949)  106 min   8.0            0   36,857                -
+27              When Marnie Was There  (2014)  103 min   7.7   72           38,787           $0.77M
+28                            Control  (2007)  122 min   7.7   78           64,559           $0.87M
+29                  Three Colors: Red  (1994)   99 min   8.1  100          101,102           $4.04M
+30          The Bride of Frankenstein  (1935)   75 min   7.8   95           47,307           $4.36M
+31                              Laura  (1944)   88 min   7.9            0   46,579           $4.36M
+32                        The Message  (1976)  177 min   8.1            0   46,746                -
+33                        Elite Squad  (2007)  115 min   8.0   33          102,575           $0.01M
+34       M.S. Dhoni: The Untold Story  (2016)  184 min   8.1            0   52,751           $1.78M
+35                       The Thin Man  (1934)   91 min   7.9   86           29,109                -
+36             Hannah and Her Sisters  (1986)  107 min   7.9   90           70,687          $40.08M
+37       The Double Life of Véronique  (1991)   98 min   7.7   86           47,466           $2.00M
+38                       The 39 Steps  (1935)   86 min   7.6   93           56,104                -
+39                      The Vanishing  (1988)  107 min   7.7            0   38,022                -
+40                 The Asphalt Jungle  (1950)  112 min   7.8   85           26,370                -
+41                     The Conformist  (1970)  113 min   7.9  100           29,767           $0.54M
+42              Farewell My Concubine  (1993)  171 min   8.1   83           27,949           $5.22M
+43                  The Little Prince  (2015)  108 min   7.7   70           61,001           $1.34M
+44  The Diving Bell and the Butterfly  (2007)  112 min   8.0   92          106,933           $5.99M
+45                  Shadow of a Doubt  (1943)  108 min   7.8   94           64,316                -
+46                        Frost/Nixon  (2008)  122 min   7.7   80          107,165          $18.59M
+47    The Tale of The Princess Kaguya  (2013)  137 min   8.0   89           44,767           $1.51M
+48                          Cape Fear  (1962)  106 min   7.7   76           28,704                -
+49                        Peeping Tom  (1960)  101 min   7.6            0   34,619           $0.08M                                 movie    year  timeMin  imdb    metascore    votes us_grossMillions
+0                                Shine  (1996)  105 min   7.7   87           53,800          $35.81M
+1                        The Sacrifice  (1986)  149 min   7.9            0   27,628           $0.30M
+2                         Land of Mine  (2015)  100 min   7.8   75           40,146           $0.44M
+3                             Super 30  (2019)  154 min   8.1            0   29,567           $2.27M
+4                           Persepolis  (2007)   96 min   8.0   90           93,441           $4.45M
+5                                   PK  (2014)  153 min   8.2            0  178,512          $10.62M
+6                    The Lady Vanishes  (1938)   96 min   7.8   98           51,636                -
+7                            Repulsion  (1965)  105 min   7.6   91           52,424                -
+8                          The Leopard  (1963)  186 min   8.0  100           25,418                -
+9                   To Be or Not to Be  (1942)   99 min   8.2   86           35,691             #235
+10                    Inherit the Wind  (1960)  128 min   8.1   75           29,754                -
+11                            Drishyam  (2015)  163 min   8.2            0   79,207           $0.74M
+12          The Umbrellas of Cherbourg  (1964)   91 min   7.8   86           26,929           $0.03M
+13               The Battle of Algiers  (1966)  121 min   8.1   96           58,743           $0.06M
+14                         Tokyo Story  (1953)  136 min   8.2            0   59,973             #211
+15                         The General  (1926)   67 min   8.2            0   89,436           $1.03M
+16                         Hard Boiled  (1992)  128 min   7.8            0   49,742                -
+17                           Gully Boy  (2019)  154 min   7.9   65           37,902           $5.57M
+18                     I, Daniel Blake  (2016)  100 min   7.9   78           58,850           $0.26M
+19                    Bringing Up Baby  (1938)  102 min   7.8   91           60,566                -
+20                                Evil  (2003)  113 min   7.8   61           37,949           $0.02M
+21  The Taking of Pelham One Two Three  (1974)  104 min   7.7   68           30,047           $2.49M
+22                            Scarface  (1932)   93 min   7.7   87           27,520                -
+23                Arsenic and Old Lace  (1943)  118 min   7.9            0   69,892                -
+24              The Motorcycle Diaries  (2004)  126 min   7.8   75          100,376          $16.76M
+25                       In Cold Blood  (1967)  134 min   7.9   89           26,266                -
+26   Lagaan: Once Upon a Time in India  (2001)  224 min   8.1   84          111,684           $0.07M
+27                     Taste of Cherry  (1997)   95 min   7.7   80           29,650           $0.31M
+28                          Raatchasan  (2018)  170 min   8.4            0   38,702                -
+29                         Underground  (1995)  167 min   8.1   79           57,865           $0.17M
+30                           Kagemusha  (1980)  162 min   7.9   84           35,147                -
+31           Aguirre, the Wrath of God  (1972)   95 min   7.9            0   56,181                -
+32              Sweet Smell of Success  (1957)   96 min   8.0  100           31,223                -
+33                       The Red Shoes  (1948)  135 min   8.1            0   34,230          $10.90M
+34                     Brief Encounter  (1945)   86 min   8.0   92           39,441                -
+35                       Wolf Children  (2012)  117 min   8.1   71           43,582                -
+36                          Departures  (2008)  130 min   8.0   68           51,471           $1.50M
+37                              Sleuth  (1972)  138 min   8.0            0   47,209           $4.08M
+38                    The Caine Mutiny  (1954)  124 min   7.7   63           27,282          $21.75M
+39                     Wait Until Dark  (1967)  108 min   7.7   81           30,113          $17.55M
+40                            The Road  (1954)  108 min   8.0            0   62,282                -
+41           Ayla: The Daughter of War  (2017)  125 min   8.5            0   38,678                -
+42            Zindagi Na Milegi Dobara  (2011)  155 min   8.2            0   75,495           $3.11M
+43                    Tokyo Godfathers  (2003)   92 min   7.8   73           38,452           $0.13M
+44                   The Wages of Fear  (1953)  131 min   8.2   85           59,771             #195
+45                      The Experiment  (2001)  120 min   7.7   60           93,297           $0.14M
+46                     His Girl Friday  (1940)   92 min   7.9            0   57,667           $0.30M
+47                             The Kid  (1921)   68 min   8.3            0  123,954           $5.45M
+48                  Sullivan's Travels  (1941)   90 min   7.9            0   25,976                -
+49            Uri: The Surgical Strike  (2019)  138 min   8.4            0   57,932           $4.19M                                         movie        year  timeMin  imdb   metascore    votes us_grossMillions
+0                                Kal Ho Naa Ho      (2003)  186 min   8.0  54           67,857           $1.79M
+1                                The Innocents      (1961)  100 min   7.8  88           29,801           $2.62M
+2                      Cowboy Bebop: The Movie      (2001)  115 min   7.8  61           47,597           $1.00M
+3                              My Name Is Khan      (2010)  165 min   8.0  50          105,000           $4.02M
+4                                 Ninja Scroll      (1993)   94 min   7.8           0   36,852                -
+5                                    A Prophet      (2009)  155 min   7.8  90           97,699           $2.08M
+6                                   The Chorus      (2004)   97 min   7.9  56           61,106           $3.64M
+7                         To Have and Have Not      (1944)  100 min   7.8  90           34,056                -
+8                              Soorarai Pottru      (2020)  153 min   9.3           0  109,167                -
+9                              Ace in the Hole      (1951)  111 min   8.1  72           35,184           $3.97M
+10                               No Man's Land  (I) (2001)   98 min   7.9  84           46,711           $1.06M
+11                4 Months, 3 Weeks and 2 Days      (2007)  113 min   7.9  97           59,456           $1.19M
+12                                     Sunrise      (1927)   94 min   8.1           0   50,470           $0.54M
+13                                     Head-On      (2004)  121 min   7.9  78           53,747                -
+14                           In a Lonely Place      (1950)   94 min   7.9           0   30,761                -
+15                                   Red River      (1948)  133 min   7.8           0   30,736                -
+16                                  Badhaai Ho      (2018)  124 min   8.0           0   33,279                -
+17                               Adam's Apples      (2005)   94 min   7.7  51           49,947           $0.00M
+18                           Nights of Cabiria      (1957)  110 min   8.1           0   48,079           $0.75M
+19                             Throne of Blood      (1957)  110 min   8.1           0   51,176                -
+20                         Battleship Potemkin      (1925)   66 min   8.0  97           56,841           $0.05M
+21                                      3-Iron      (2004)   88 min   7.9  72           54,366           $0.24M
+22                         Eyes Without a Face      (1960)   90 min   7.6  90           30,851           $0.05M
+23                               Autumn Sonata      (1978)   99 min   8.1           0   33,460                -
+24                           The Invisible Man      (1933)   71 min   7.7  87           34,170                -
+25                                Fitzcarraldo      (1982)  158 min   8.0           0   34,308                -
+26                                   Key Largo      (1948)  100 min   7.8           0   40,165                -
+27                              The Odd Couple      (1968)  105 min   7.7  86           34,423          $44.53M
+28                             Pather Panchali      (1955)  125 min   8.3           0   31,070           $0.54M
+29                                  Diabolique      (1955)  117 min   8.1           0   65,052           $1.09M
+30                                 The Postman      (1994)  108 min   7.8  81           35,995          $21.85M
+31                                 Down by Law      (1986)  107 min   7.7  75           50,948           $1.44M
+32                                The Lunchbox      (2013)  104 min   7.8  76           55,012           $4.23M
+33                                  Article 15      (2019)  130 min   8.2           0   32,109                -
+34                         Three Colors: White      (1994)   92 min   7.6  88           71,838           $1.46M
+35                                      Haider      (2014)  160 min   8.1           0   54,238           $0.90M
+36                           Goodbye, Children      (1987)  104 min   8.0  88           33,368           $4.54M
+37  Spring, Summer, Fall, Winter... and Spring      (2003)  103 min   8.0  85           81,918           $2.38M
+38                                Vikram Vedha      (2017)  147 min   8.4           0   36,531                -
+39                         The Hidden Fortress      (1958)  126 min   8.1  89           38,290                -
+40             The Girl Who Leapt Through Time      (2006)   98 min   7.7           0   64,897                -
+41                                  In America      (2002)  105 min   7.7  76           42,867          $15.54M
+42                  The Passion of Joan of Arc      (1928)  114 min   8.2           0   53,218           $0.02M
+43                     The Exterminating Angel      (1962)   95 min   8.0           0   32,643                -
+44                            Ivan's Childhood      (1962)   95 min   8.0           0   35,666                -
+45                  The Triplets of Belleville      (2003)   80 min   7.8  91           53,990           $7.00M
+46                        Black Cat, White Cat      (1998)  127 min   8.0  73           53,208           $0.35M
+47                 The Broken Circle Breakdown      (2012)  111 min   7.7  70           40,895           $0.18M
+48                                Nobody Knows      (2004)  141 min   8.0  88           27,321           $0.68M
+49                                 L'Avventura      (1960)  144 min   7.8           0   29,204                -                           movie    year  timeMin  imdb   metascore    votes us_grossMillions
+0            Time of the Gypsies  (1988)  142 min   8.1           0   30,268           $0.28M
+1               The Lost Weekend  (1945)  101 min   7.9           0   36,381           $9.46M
+2              After the Wedding  (2006)  120 min   7.7  78           34,294           $0.41M
+3         Miracle on 34th Street  (1947)   96 min   7.9  88           47,257           $2.65M
+4             Millennium Actress  (2001)   87 min   7.8  70           27,018           $0.19M
+5            Hiroshima Mon Amour  (1959)   90 min   7.9           0   31,289           $0.09M
+6          The Magdalene Sisters  (2002)  114 min   7.7  83           27,054           $4.89M
+7                   Winter Sleep  (2014)  196 min   8.1  88           50,902           $0.17M
+8       The Purple Rose of Cairo  (1985)   82 min   7.7  75           50,988          $10.63M
+9                     Nostalghia  (1983)  125 min   8.0           0   26,400           $0.01M
+10                        Swades  (2004)  189 min   8.2           0   88,914           $1.22M
+11                   Confessions  (2010)  106 min   7.7           0   38,423                -
+12                Darbareye Elly  (2009)  119 min   8.0  87           52,598           $0.11M
+13                        Dreams  (1990)  119 min   7.7           0   26,008           $1.96M
+14                    The Return  (2003)  110 min   7.9  82           45,077           $0.50M
+15                  The Big Heat  (1953)   89 min   7.9           0   26,313                -
+16       Crimes and Misdemeanors  (1989)  104 min   7.8  77           57,451          $18.25M
+17                 The Gold Rush  (1925)   95 min   8.2           0  109,265           $5.45M
+18                 Jules and Jim  (1962)  105 min   7.7  97           40,758                -
+19                    White Heat  (1949)  114 min   8.1           0   32,296                -
+20                  Sherlock Jr.  (1924)   45 min   8.2           0   48,160           $0.98M
+21                  Vivre Sa Vie  (1962)   85 min   7.9           0   31,019                -
+22          My Father and My Son  (2005)  112 min   8.3           0   85,255             #230
+23                     Celda 211  (2009)  113 min   7.6           0   66,944                -
+24                 My Sassy Girl  (2001)  137 min   8.0           0   47,639                -
+25                    The Killer  (1989)  111 min   7.8  82           47,862                -
+26                    C.R.A.Z.Y.  (2005)  129 min   7.9  81           32,668                -
+27                    Tangerines  (2013)   87 min   8.1  73           45,560           $0.14M
+28                      G.O.R.A.  (2003)  127 min   8.1           0   61,602                -
+29           Joint Security Area  (2000)  110 min   7.8  58           29,387                -
+30                        Talvar  (2015)  132 min   8.1           0   34,534           $0.34M
+31                     Duck Soup  (1933)   69 min   7.8  93           59,556                -
+32                      The Past  (2013)  130 min   7.7  85           48,362           $1.33M
+33         Raise the Red Lantern  (1991)  125 min   8.1           0   32,058           $2.60M
+34                        Masaan  (2015)  109 min   8.1           0   27,308                -
+35                   Nine Queens  (2000)  114 min   7.9  80           52,298           $1.22M
+36                Dil Chahta Hai  (2001)  183 min   8.1           0   71,002           $0.30M
+37          Beauty and the Beast  (1946)   93 min   7.9  92           26,146           $0.30M
+38             Bajrangi Bhaijaan  (2015)  163 min   8.1           0   84,468           $8.18M
+39                        Rififi  (1955)  118 min   8.2  97           33,528           $0.06M
+40            The Grand Illusion  (1937)  113 min   8.1           0   36,115           $0.17M
+41                        Barfi!  (2012)  151 min   8.2           0   80,474           $2.80M
+42                    Vera Drake  (2004)  125 min   7.7  83           25,285           $3.75M
+43                    The Circus  (1928)   72 min   8.1  90           33,185                -
+44                    Chhichhore  (2019)  143 min   8.5           0   49,233           $0.90M
+45  Once Upon a Time in Anatolia  (2011)  157 min   7.9  82           45,700           $0.14M
+46                   A Wednesday  (2008)  104 min   8.1           0   77,796                -
+47              Le Dîner de Cons  (1998)   80 min   7.6  73           40,987           $4.07M
+48    The Shop Around the Corner  (1940)   99 min   8.1  96           32,295           $0.20M
+49                     Fireworks  (1997)  103 min   7.7           0   30,149           $0.23M                                 movie          year  timeMin  imdb   metascore    votes us_grossMillions
+0                     Jean de Florette        (1986)  120 min   8.1           0   25,507           $4.94M
+1          Dilwale Dulhania Le Jayenge        (1995)  181 min   8.1           0   68,028                -
+2                                 Pink  (III) (2016)  136 min   8.1           0   44,015           $1.24M
+3                      Color It Yellow        (2006)  167 min   8.1           0  117,942           $2.20M
+4                              Sanjuro        (1962)   96 min   8.0           0   37,571                -
+5                       Love and Death        (1975)   85 min   7.7  89           38,132                -
+6                      Central Station        (1998)  110 min   8.0  80           39,073           $5.60M
+7                                 Baby    (I) (2015)  159 min   8.1           0   56,813                -
+8                          Joyeux Noel        (2005)  116 min   7.7  70           29,588           $1.05M
+9                          Udta Punjab        (2016)  148 min   7.8           0   29,875                -
+10     Elite Squad 2: The Enemy Within        (2010)  115 min   8.0  71           82,264           $0.10M
+11                     Rome, Open City        (1945)  103 min   8.0           0   26,007                -
+12                         Dil Bechara        (2020)  101 min   8.1           0  128,103                -
+13          The Muppet Christmas Carol        (1992)   85 min   7.7  64           57,370          $27.28M
+14               The Rules of the Game        (1939)  110 min   7.9           0   28,604                -
+15                               Udaan        (2010)  134 min   8.1           0   44,605           $0.01M
+16           Knockin' on Heaven's Door        (1997)   87 min   7.9           0   29,856           $0.00M
+17                          The Bandit        (1996)  128 min   8.2           0   69,417                -
+18                     Andaz Apna Apna        (1994)  160 min   8.1           0   52,715                -
+19  Tae Guk Gi: The Brotherhood of War        (2004)  140 min   8.0  64           39,410           $1.11M
+20                                  96   (II) (2018)  158 min   8.6           0   28,248                -
+21                            Drishyam        (2013)  160 min   8.3           0   40,167                -
+22                               Zelig        (1983)   79 min   7.7           0   41,748          $11.80M
+23                  The Edge of Heaven        (2007)  122 min   7.8  85           31,909           $0.74M
+24                A Night at the Opera        (1935)   96 min   7.8           0   32,544           $2.54M
+25                         Vicky Donor        (2012)  126 min   7.8           0   42,647           $0.17M
+26                    Paan Singh Tomar        (2012)  135 min   8.2           0   35,820           $0.04M
+27                             Airlift        (2016)  130 min   8.1           0   56,276                -
+28                               Dev.D        (2009)  144 min   8.0           0   30,353           $0.01M
+29                              Sholay        (1975)  162 min   8.1           0   54,864                -
+30                          Drishyam 2        (2021)  152 min   8.6           0   34,411                -
+31                              Asuran        (2019)  141 min   8.6           0   25,890                -
+32                 Munna Bhai M.B.B.S.        (2003)  156 min   8.1           0   79,962                -
+33                          Veer Zaara        (2004)  192 min   7.9  67           52,127           $2.92M
+34                     Let's Go! India        (2007)  153 min   8.2  68           78,908           $1.11M
+35                     OMG: Oh My God!        (2012)  125 min   8.2           0   57,204           $0.92M
+36                        Hindi Medium        (2017)  132 min   7.9           0   27,762                -
+37                          Hera Pheri        (2000)  156 min   8.1           0   64,781                -
+38                          Jab We Met        (2007)  138 min   7.9           0   51,743           $0.41M
+39                  Bhaag Milkha Bhaag        (2013)  186 min   8.3           0   66,568           $1.63M
+40                               Queen        (2013)  146 min   8.2           0   64,875           $1.43M
+41                          Special 26        (2013)  144 min   8.1           0   55,324           $1.08M
+42                           Vizontele        (2001)  110 min   8.0           0   36,188                -
+43                             Kahaani        (2012)  122 min   8.1           0   62,096           $1.04M
+44                    English Vinglish        (2012)  134 min   7.9           0   35,782           $1.67M
+45                          The Breath        (2009)  128 min   8.1           0   33,400                -
+46                               Black        (2005)  122 min   8.2           0   34,684           $0.73M
+47                Carry On, Munna Bhai        (2006)  144 min   8.1           0   46,288           $2.22M
+48                           Sarfarosh        (1999)  174 min   8.1           0   25,402                -
+49                               Anand        (1971)  122 min   8.1           0   33,412                -
